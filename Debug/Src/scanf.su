@@ -1,0 +1,2 @@
+scanf.c:22:1:__io_putchar	16	static
+scanf.c:31:1:__io_getchar	16	static
